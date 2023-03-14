@@ -3,7 +3,7 @@
 <p align='center'>I am a Software Engineer focused on React Native 💙 and React.JS 💛. </p>
 
 <p align='center'>
-<a href="">
+<a href="https://twitter.com/AnkeshPashad?t=gSwdze7or_SnzE8A7rBsUg&s=09">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ankesh-uniyal-001b79212/">
